@@ -184,7 +184,7 @@ function startGUI() {
 
 
 
-    gui.__proto__.constructor.toggleHide()
+    // gui.__proto__.constructor.toggleHide()
 
 
 }
