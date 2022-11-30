@@ -11,7 +11,7 @@ window.onload = () => {
                 element.parentElement.style.backgroundColor = "#1c1c1c"
 
             } else if (element.getAttribute("name") == "web3") {
-                window.location = "#"
+                window.location = "https://bafybeicbafdmtflzkvb34u5eoeqlwdexypjregyqihpxibc2e5iqkcmmea.ipfs.dweb.link/"
                 element.parentElement.style.backgroundColor = "#1c1c1c"
 
             } else if (element.getAttribute("name") === "tor") {
