@@ -127,7 +127,7 @@ canvas {
     cursor: pointer;
 }
 
-.tri-button-container:nth-child(2) {
+.tri-button-container:nth-child(1) {
     background-color: #1c1c1c;
 }
 
