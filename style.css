@@ -72,11 +72,8 @@ canvas {
     border-radius: 5px;
     position: relative;
     border-radius: 35px;
-    background: #1c1c1cab;
-    box-shadow: 5px 5px 10px #181818,
-        -5px -5px 10px #202020;
-    backdrop-filter: blur(2.2px);
-    -webkit-backdrop-filter: blur(2.2px);
+    background: rgba(0,0,0,0.5);
+    backdrop-filter: blur(22px);
     /* border: 1px solid rgba(118, 118, 118, 0.25); */
 }
 
@@ -186,8 +183,7 @@ canvas {
     margin: 10px;
     border-radius: 35px;
     background: #00000044;
-    box-shadow: 5px 5px 10px #161616,
-        -5px -5px 10px #1e1e1e;
+
     display: inline-flex;
     /* width: 350px; */
     border-radius: 5px;
