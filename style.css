@@ -94,7 +94,7 @@ canvas {
 @media screen and (max-width: 600px) {
     .box {
         backdrop-filter: blur(7px);
-        background: rgba(0, 0, 0, 0.2);
+        background: rgba(0, 0, 0, 0.4);
         border-radius: 0;
     }
 }
