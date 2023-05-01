@@ -82,12 +82,14 @@ function init() {
 	controls.minDistance = 250;
 	controls.maxDistance = 260;
 
-	controls.dispose();
-    controls.update();
 
-	function onDocumentMouseMove( event ) {
-		controls.handleMouseMoveRotate(event);
-	}
+	
+	// controls.dispose();
+    // controls.update();
+
+	// function onDocumentMouseMove( event ) {
+	// 	controls.handleMouseMoveRotate(event);
+	// }
 
 	// document.addEventListener('mousemove', onDocumentMouseMove, false);
 
